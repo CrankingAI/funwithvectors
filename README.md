@@ -1,5 +1,7 @@
 # Fun with Vectors 🤖
 
+> ⚠️ **This project has been superseded by [Vector Playground](https://github.com/CrankingAI/vectorplayground)** — the actively maintained version, deployed at [vectorplayground.com](https://vectorplayground.com). The old domain, funwithvectors.com, currently redirects there as well. This repo is kept for historical reference only.
+
 | Phrase 1 | Phrase 2 | Comments |
 |----------|----------|----------|
 | dog | cat | Common domestic animals |
